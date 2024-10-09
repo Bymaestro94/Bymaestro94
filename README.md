@@ -11,7 +11,6 @@ I'm an 18-year-old programmer with a passion for low-level programming and game 
 ### 🔭 I’m currently working on:
 
 - Developing a 2D fantasy game inspired by Hollow Knight, using Unity
-- Creating efficient backend architectures
 
 ### 🌱 I’m currently learning:
 
