@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Arseniy (Bymaestro94)
+### Hi there 👋, I'm Arsen (Bymaestro94)
 
 ---
 
